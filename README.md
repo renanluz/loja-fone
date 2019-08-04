@@ -105,3 +105,11 @@ Você pode utilizar essa tag em conjunto com alguns atributos.
 ```
 <a href="http://www.collabcode.training">CollabCode.Training</a>
 ```
+
+# CSS
+
+CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é uma linguagem de estilo usada para descrever a apresentação de um documento escrito em HTML. O CSS descreve como elementos são mostrados na tela.
+
+Ela possui as seguintes responsabilidades:
+
+- Visual;
