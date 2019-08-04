@@ -3,7 +3,7 @@ header {
   overflow: hidden;
   color: #fff;
   margin: 0 115px;
-  padding: 55px 60px 95.5px;
+  padding: 55px 60px 95px;
 }
 
 h1 {
@@ -21,4 +21,9 @@ nav {
 a {
   text-decoration: none;
   color: inherit;
+  margin-right: 60px;
+}
+
+nav a:last-child {
+  margin-right: 0;
 }
